@@ -1,5 +1,7 @@
 # Project Instructions
 
+https://spiestime.github.io/homepage/
+
 ## Mission (problem to solve)
 
 **Create and Document an Organization**
